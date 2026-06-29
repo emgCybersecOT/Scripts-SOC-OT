@@ -7,6 +7,8 @@ El objetivo de este laboratorio es optimizar la monitorización, el filtrado de 
 ## Índice de Scripts Disponibles
 
 - Script_base_pruebas.py: Script base que simula el filtrado de registros de planta (PLC, Robótica, SCADA) correlacionando bucles y condicionales de Python con la lógica de programación de autómatas bajo el estándar IEC 61131-3.
+  
+- analizador_logs_seguridad.py (v1.0): Herramienta para el análisis de eventos críticos en sistemas OT. Implementa procesamiento de archivos externos, validación de rutas y trazabilidad temporal para análisis de seguridad.
 
 ---
 
